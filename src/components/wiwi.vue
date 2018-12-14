@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <img src="https://scontent.ftpe4-1.fna.fbcdn.net/v/t1.0-9/24296810_1615933398464044_3244885841644111190_n.jpg?_nc_cat=107&_nc_ht=scontent.ftpe4-1.fna&oh=07e08580c3ae0b1f734b3570412d49c5&oe=5CA99CA6">
+    <img src="../assets/car.gif">
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
     <ul>
@@ -86,10 +86,10 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'wiwi',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'wiwi~'
     }
   }
 }
